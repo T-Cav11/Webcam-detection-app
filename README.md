@@ -1,0 +1,1 @@
+This Python project uses OpenCV to detect motion through a webcam in real time. When motion is detected, the system captures an image, highlights the moving object, and sends an email alert with the image attached. To manage system resources efficiently, it also automatically cleans up saved images using multithreading. Ideal for basic surveillance or security automation.
