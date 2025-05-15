@@ -61,5 +61,6 @@ while True:
     if key == ord("q"):
         break
 
+clean_folder()
 video.release()
 
